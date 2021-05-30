@@ -1,0 +1,25 @@
+.mainBlogContainer{
+    background-color: aliceblue;
+}
+.landing{
+    background-color: rgba(175, 175, 175, 0.5);
+    padding: 20px;
+}
+.genre_slider{
+    width: 100%;
+    background-color: none;
+    height: 15vh;
+    
+}
+.genre_slider img{
+margin: 0 auto;
+}
+.genre_slider::after{
+border: 2px solid blue;
+background-color: blue;
+}
+.card{
+    width: 90%;
+    height: 30vh;
+    border: 1px solid green
+}
